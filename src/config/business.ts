@@ -33,8 +33,8 @@ export const business = {
   },
 
   address: {
-    line1: 'At Post Kohutlana',
-    line2: 'Tahsil Savneer',
+    line1: 'At Post Kothulana',
+    line2: 'Tahsil Savner',
     cityLine: 'Dist. Nagpur, PIN 441101',
     mapsQuery: 'Kohutlana, Savner, Nagpur, Maharashtra 441101',
   },
